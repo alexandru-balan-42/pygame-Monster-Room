@@ -1,7 +1,6 @@
 import pygame
 from random import randint
 
-
 class GameCharacter:
     def __init__(self, x: int, y: int, image):
         self.x = x
