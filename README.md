@@ -19,6 +19,6 @@ The game over screen
 ![](images/GameOverScreen.JPG)
 
 ## Technologies
-*Python 
-*Pygame library
-*Git
+* Python 
+* Pygame library
+* Git
