@@ -110,7 +110,7 @@ class MonsterRoom:
     def load_images(self):
         self.images = {}                                                                    
         for name in ["robot", "monster", "coin", "door"]:                                       
-            self.images[name] = pygame.image.load(name + ".png")
+            self.images[name] = pygame.image.load("pygame-Monster-Room/images/" + name + ".png")
 
 # creates the player in the middle of the screen
     def create_player(self):
